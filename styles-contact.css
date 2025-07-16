@@ -156,7 +156,7 @@ html, body {
     width: 40%;
 	min-width: 1200px;
 	padding: 2%;
-    margin: 300px auto;
+    margin: 100px auto;
  	background: rgba(255, 255, 255, 0.5); /*this uses opacity of 75% for the background color*/
 	text-align: center;
 	border: 4px solid white;
